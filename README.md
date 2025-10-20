@@ -74,7 +74,7 @@ While age has slightly affected raw strike rate, his game awareness and consiste
 
 # ▶️ Running the Notebook
 
-  1.  Open the notebook in Jupyter Notebook or JupyterLab.
+  1.  Open the notebook Cricket_Death_Overs_Analysis.ipynb in Jupyter Notebook or JupyterLab.
   2.  Execute each cell in sequence:
   3.  Load and clean the dataset
   4.  Filter overs 17–20
