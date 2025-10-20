@@ -19,9 +19,9 @@ To evaluate Dhoni’s current finishing ability by comparing him with other bats
 
 Three performance indicators are computed to measure finishing effectiveness:
 
-Strike Rate (SR) - 	100 × (Runs Scored / Balls Faced)	Ability to score quickly
-Boundary %	- 100 × (Balls Hit for 4s or 6s / Balls Faced)	Power hitting capability
-Dot Ball %	- 100 × (Balls with No Runs / Balls Faced)	Ability to rotate strike and handle pressure
+-  Strike Rate (SR) - 	100 × (Runs Scored / Balls Faced)	Ability to score quickly
+-  Boundary %	- 100 × (Balls Hit for 4s or 6s / Balls Faced)	Power hitting capability
+-  Dot Ball %	- 100 × (Balls with No Runs / Balls Faced)	Ability to rotate strike and handle pressure
 
 Together, these metrics provide a comprehensive picture of a finisher’s efficiency and impact in the death overs.
 
