@@ -57,15 +57,6 @@ Together, these metrics provide a comprehensive picture of a finisher’s effici
 
 # 📈 Results Summary
 
-# Baseline Evaluation (All Features):
-Initial strike-rate-based comparison showed modest results when using all available features directly.
-
-# Feature Refinement:
-After computing feature importances (similar to Random Forest ranking logic), non-informative metrics were removed — focusing purely on SR, Boundary %, and Dot %.
-This improved interpretability and accuracy of comparisons.
-
-# Final Findings:
-
   - Dhoni consistently ranks within the top 7 batsmen on Strike Rate and Boundary %.
   - His Dot Ball % remains among the best, showing efficient strike rotation.
   - Overall, Dhoni achieves approximately 70–75% effectiveness when benchmarked against the best finishers (top percentile group).
@@ -74,7 +65,6 @@ This improved interpretability and accuracy of comparisons.
 
 Dhoni continues to perform at a high-impact level in death overs, maintaining a strong balance of boundary frequency and pressure control — key attributes for a finisher.
 While age has slightly affected raw strike rate, his game awareness and consistency remain elite.
-
 
 # 🧰 Tools and Libraries
 
