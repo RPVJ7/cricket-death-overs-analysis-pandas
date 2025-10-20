@@ -27,33 +27,33 @@ Together, these metrics provide a comprehensive picture of a finisher’s effici
 
 # 🧠 Methodology
 
-# 1. Data Preparation
+# 1️⃣ Data Preparation
 
-Load and inspect IPL/T20 batting data up to 2021.
-Validate player names, over numbers, and match context.
-Focus exclusively on deliveries from overs 17–20.
+  -  Load and inspect IPL/T20 batting data up to 2021.
+  -  Validate player names, over numbers, and match context.
+  -  Focus exclusively on deliveries from overs 17–20.
 
-# 2. Cohort Definition
+# 2️⃣ Cohort Definition
 
-Retain only batsmen with ≥100 balls faced in death overs to ensure meaningful sample sizes.
-Aggregate total runs, boundaries, and dot balls for each batsman.
+  -  Retain only batsmen with ≥100 balls faced in death overs to ensure meaningful sample sizes.
+  -  Aggregate total runs, boundaries, and dot balls for each batsman.
 
-# 3. Metric Calculation
+# 3️⃣ Metric Calculation
 
-Compute Strike Rate, Boundary %, and Dot Ball % per batsman.
-Store the metrics in a summary dataframe for comparison.
+  - Compute Strike Rate, Boundary %, and Dot Ball % per batsman.
+  - Store the metrics in a summary dataframe for comparison.
 
-# 4. Peer Comparison
+# 4️⃣ Peer Comparison
 
-Compare Dhoni’s metrics with the rest of the cohort.
-Rank all batsmen and compute percentile standings for each metric.
-Visualize Dhoni’s position within the top finishers’ distribution.
+  -  Compare Dhoni’s metrics with the rest of the cohort.
+  -  Rank all batsmen and compute percentile standings for each metric.
+  -  Visualize Dhoni’s position within the top finishers’ distribution.
 
-# 5. Visualization
+# 5️⃣ Visualization
 
-Scatter Plot: Strike Rate vs Dot Ball % (trade-off between aggression and rotation).
-Bar Charts: Dhoni’s metrics vs cohort average.
-Density/Box Plots: Dhoni’s standing within overall metric distributions.
+  -  Scatter Plot: Strike Rate vs Dot Ball % (trade-off between aggression and rotation).
+  -  Bar Charts: Dhoni’s metrics vs cohort average.
+  -  Density/Box Plots: Dhoni’s standing within overall metric distributions.
 
 # 📈 Results Summary
 
