@@ -6,14 +6,10 @@ It demonstrates data-driven performance evaluation, metric definition, and compa
 
 # ✨ Project Overview
 
-The notebook analyzes ball-by-ball T20/IPL data to answer a focused question:
-Is MS Dhoni still effective at the death (overs 17–20)?
-
-# Context
-Dhoni has built his career around finishing matches in pressure situations. As a lower-order batsman (usually positions 6–8), he often faces fewer balls — but in the most crucial phase of the innings.
-
-# Objective
-To evaluate Dhoni’s current finishing ability by comparing him with other batsmen who have faced a statistically meaningful number of balls (≥100) during overs 17–20.
+-  The notebook analyzes ball-by-ball T20/IPL data to answer a focused question:
+    Is MS Dhoni still effective at the death (overs 17–20)?
+-  Dhoni has built his career around finishing matches in pressure situations. As a lower-order batsman (usually positions 6–8), he often faces fewer balls — but in the         most crucial phase of the innings.
+-  To evaluate Dhoni’s current finishing ability by comparing him with other batsmen who have faced a statistically meaningful number of balls (≥100) during overs 17–20.
 
 # 📊 Key Metrics
 
